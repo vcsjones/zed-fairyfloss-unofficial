@@ -2,4 +2,6 @@ This is a port of the the [Fairy floss](https://github.com/sailorhg/fairyfloss) 
 
 Drop the `fairyfloss.json` file in the theme directory of Zed. See the [Zed theme documentation](https://zed.dev/docs/themes#local-themes) for where.
 
+The font and icon set are configured seperately, so if you don't like what you see in the screenshot that's okay - your font and icon set will be used.
+
 <img width="2330" height="1768" alt="A screenshot of the fairyfloss theme for Zed." src="https://github.com/user-attachments/assets/b1484905-d8b8-44cb-b03b-121a395fbec0" />
